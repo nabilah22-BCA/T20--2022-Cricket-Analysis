@@ -1,8 +1,8 @@
-T20 World Cup Cricket Data Analytics
-Project Overview
+#T20 World Cup Cricket Data Analytics
+#Project Overview
 This project involves building a data-driven Power BI report to select the top 11 players for a T20 cricket team. The data was scraped from ESPNcricinfo using the Brightdata website tool, cleaned, and transformed using Pandas. Various player performance metrics were analyzed to evaluate and categorize players based on their role in the team, with the goal of selecting a team that has a high probability of winning the game.
 
-Key Features:
+#Key Features:
 Data Scraping: Used Brightdata to scrape data from ESPNcricinfo.
 Data Cleaning & Transformation: Leveraged Python and Pandas to clean and preprocess the scraped data.
 Performance Metrics: Evaluated players' stats to create a comprehensive analysis of their abilities.
